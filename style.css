@@ -1,29 +1,29 @@
 body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    background-color: #e49438;
-    font-family: 'Arial', sans-serif;
-    color: #ffffff;
-    margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #e49438;
+  font-family: "Arial", sans-serif;
+  color: #ffffff;
+  margin: 0;
 }
 
 .clock-container {
-    background-color: #e4aae9;
-    padding: 20px 50px;
-    border-radius: 20px;
-    text-align: center;
-    box-shadow: 0 0 20px rgba(187, 210, 16, 0.5);
+  background-color: #e4aae9;
+  padding: 20px 50px;
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 0 0 20px rgba(187, 210, 16, 0.5);
 }
 
 #time {
-    font-size: 4em;
-    font-weight: bold;
-    margin-bottom: 10px;
+  font-size: 4em;
+  font-weight: bold;
+  margin-bottom: 10px;
 }
 
 #date {
-    font-size: 2em;
-    opacity: 0.8;
+  font-size: 2em;
+  opacity: 0.8;
 }
